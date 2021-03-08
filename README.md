@@ -1,2 +1,3 @@
 # practiceTypescript
-practice typescript basic to advance
+
+practice Typescript from basic to advance
